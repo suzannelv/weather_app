@@ -1,0 +1,59 @@
+.card {
+    border: 5px solid #d70000;
+    background-color: #6759fc;
+    width: 300px;
+    text-align: center;
+}
+
+.header {
+    font-size: 16px;
+    padding-bottom: 15px;
+    padding-top: 15px;
+    padding-left: 10px;
+    border-bottom: 1px solid #fff;
+    text-align: start;
+}
+.arrowIcon {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.temperature {
+    font-size: 48px;
+    color: #ffffff;
+    text-align: center;
+    font-weight: 700;
+}
+
+.description {
+    font-size: 18px;
+    text-align: center;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.city {
+    font-size: 16px;
+    margin-bottom: 15px;
+}
+
+.locationIcon {
+    margin-right: 5px;
+}
+
+.footer {
+    display: flex;
+    justify-content: space-around;
+    padding: 15px;
+    border-top: 1px solid white;
+}
+
+.detailItem {
+    display: flex;
+    align-items: center;
+    text-align: start;
+    font-size: 12px;
+    column-gap: 10px;
+}
+.detailIcon {
+    font-size: 24px;
+}
